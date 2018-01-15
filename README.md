@@ -35,11 +35,11 @@ para preder el led se ejecuta el comando
 node client.js ledh
 ```
 
-![alt text](https://github.com/rquiroga83/esp32_CoAP_led/tree/master/images/on.png)
+![alt text](https://github.com/rquiroga83/esp32_CoAP_led/blob/master/images/on.png)
 
 para apagarlo se ejecuta el comando
 
 ```bash
 node client.js ledl
 ```
-![alt text](https://github.com/rquiroga83/esp32_CoAP_led/tree/master/images/off.png)
+![alt text](https://github.com/rquiroga83/esp32_CoAP_led/blob/master/images/off.png)
