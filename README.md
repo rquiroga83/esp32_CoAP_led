@@ -15,19 +15,19 @@ make flash
 
 Esto compilara e instalara el programa el esp32.
 
-Con el comando
+Con el comando siguente se podra inspeccionar la direccion ip asignada por el router en de consola.
+
 ```bash
 make monitor
 ```
-
-Se podra inteccionar la direccion ip asignada por el router la salida es algo como lo que sigue:
+ La salida es algo como lo que sigue:
 
 ```bash
 I (2069) event: sta ip: 192.168.10.6, mask: 255.255.255.0, gw: 192.168.10.1
 I (2069) CoAP_server: Connected to AP
 ```
 
-Para probar el servidor en la carpeta "node_coap_client" se encuentra un pequeño cliente en node js con el cual se podra enviar la aolicid de prender o apagar el led, ates de usarlo es necesario configurar la direccion ip en el archivo client.js.
+Para probar el servidor en la carpeta "node_coap_client" se encuentra un pequeño cliente en node js con el cual se podra enviar la solicitud de prender o apagar el led, antes de usarlo es necesario configurar la direccion ip en el archivo client.js.
 
 para preder el led se ejecuta el comando
 
