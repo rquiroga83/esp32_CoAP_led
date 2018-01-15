@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Hello World",
+            "includePath": [
+                "C:/msys32/usr/include",
+                "../build/include",
+                "C:/trabajo/esp/esp-idf/components/freertos/include",
+                "C:/msys32/opt/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                "C:/trabajo/esp/esp-idf/components/esp32/include",
+                "C:/trabajo/esp/esp-idf/components/spi_flash/include",
+                "C:/trabajo/esp/esp-idf/components/coap/port/include/coap",
+                "C:/trabajo/esp/esp-idf/components/coap/libcoap/include/coap",
+                "C:/trabajo/esp/esp-idf/components/coap/libcoap/src",
+                "${workspaceRoot}"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "C:/msys32/usr/include",
+                    "../build/include",
+                    "C:/trabajo/esp/esp-idf/components/freertos/include",
+                    "C:/msys32/opt/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                    "C:/trabajo/esp/esp-idf/components/esp32/include",
+                    "C:/trabajo/esp/esp-idf/components/spi_flash/include",
+                    "C:/trabajo/esp/esp-idf/components/coap/port/include/coap",
+                    "C:/trabajo/esp/esp-idf/components/coap/libcoap/include/coap",
+                    "C:/trabajo/esp/esp-idf/components/coap/libcoap/src",
+                    "${workspaceRoot}"
+                ]
+            }
+        }
+    ],
+    "version": 3
+}
