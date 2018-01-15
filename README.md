@@ -15,7 +15,7 @@ make flash
 
 Esto compilara e instalara el programa el esp32.
 
-Con el comando siguente se podra inspeccionar la direccion ip asignada por el router en de consola.
+Con el comando siguente se podra inspeccionar la direccion ip asignada por el router al ESP32.
 
 ```bash
 make monitor
